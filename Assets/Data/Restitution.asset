@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bf53dcad6b9842944afc94c44f93c730, type: 3}
-  m_Name: Speed
+  m_Name: Restitution
   m_EditorClassIdentifier: 
-  value: 0.5
+  value: 0

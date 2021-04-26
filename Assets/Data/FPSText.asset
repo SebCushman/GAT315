@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf53dcad6b9842944afc94c44f93c730, type: 3}
-  m_Name: Speed
+  m_Script: {fileID: 11500000, guid: 45f277c57c66e35469e46fd6b9699f08, type: 3}
+  m_Name: FPSText
   m_EditorClassIdentifier: 
-  value: 0.5
+  value: 

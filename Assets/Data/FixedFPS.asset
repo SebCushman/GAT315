@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf53dcad6b9842944afc94c44f93c730, type: 3}
   m_Name: FixedFPS
   m_EditorClassIdentifier: 
-  value: 0
+  value: 60
